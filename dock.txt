@@ -1,2 +1,0 @@
-sudo touch /tmp/file123.txt
-sudo snap install docker
