@@ -1,5 +1,5 @@
-The objective of this project is to creatre a VMSS with two(2) instances. Each of the instance is installed with docker. 
-To use this code you need to flow the below instructions;
+The objective of this project is to creatre a VMSS with two(2) Ubuntu instances. Each of the instance is installed with docker. 
+To use this code you need to follow the below instructions:
 1. lon on to azure.com
 2. Open Cloudshell
 3. git clone this project 
